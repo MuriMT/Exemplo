@@ -12,7 +12,7 @@ public class Revisao {
 		int menor = menorValor(v);
 		System.out.println("Maior valor --> " + maior);
 		System.out.println("Menor valor --> " + menor);
-		
+		System.out.println("Fechando o projeto");
 	}
 	
 	public static void preencher(int[] v) {
